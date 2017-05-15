@@ -1,2 +1,2 @@
 # tik-scripts
-Useful scripts for MikroTik RouterOS
+Useful python scripts for MikroTik RouterOS
